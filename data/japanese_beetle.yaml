@@ -1,0 +1,7 @@
+# Généré par merge_datasets.py — sources sous licence CC BY 4.0 (Roboflow Universe)
+path: /Users/davidmontavon/Code/Claude Code/detecteur_scarabees_japonais/data/japanese_beetle
+train: train/images
+val: valid/images
+names:
+  0: japanese_beetle
+test: test/images
